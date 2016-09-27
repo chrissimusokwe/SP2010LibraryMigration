@@ -4,7 +4,7 @@ A tool for migrating SharePoint 2010 Document Libraries with metadata like "Modi
 
 This tool is a windows application that migrate SharePoint 2010 Document Libraries (excluding system Document Libraries) while maintaining metadata from a specified source site to a specified destination site. If the Document Library with the same name is found, it will merge the existing with the imported files, including library columns. Running this tool requires Farm Administrator privileges. This version of the application needs to be tested on development environment first, before being used on production.
 
-# Procedure:
+# User Guide:
 
 1.	Copy the folder to the root of C Drive of the SharePoint App or WFE Server.
 
