@@ -142,7 +142,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnMigrate);
             this.Name = "LibraryMigrationForm";
-            this.Text = "SharePoint 2010 Library Migration Tool, by @chrissimusokwe for @GTConsult";
+            this.Text = "SharePoint 2010 Library Migration Tool, by @chrissimusokwe";
             this.ResumeLayout(false);
             this.PerformLayout();
 

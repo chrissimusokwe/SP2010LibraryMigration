@@ -1,4 +1,4 @@
-﻿// <copyright file="Log.cs" company="GTConsult">
+﻿// <copyright file="Log.cs" company="Private">
 // Copyright (c) 2012 All Rights Reserved
 // </copyright>
 // <author>Christopher Simusokwe</author>
