@@ -1,0 +1,18 @@
+C:\014 SourceControl\LibraryMigration\LibraryMigration\bin\Debug\LibraryMigration.exe
+C:\014 SourceControl\LibraryMigration\LibraryMigration\bin\Debug\LibraryMigration.pdb
+C:\014 SourceControl\LibraryMigration\LibraryMigration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\014 SourceControl\LibraryMigration\LibraryMigration\obj\x86\Debug\LibraryMigration.LibraryMigrationForm.resources
+C:\014 SourceControl\LibraryMigration\LibraryMigration\obj\x86\Debug\LibraryMigration.Properties.Resources.resources
+C:\014 SourceControl\LibraryMigration\LibraryMigration\obj\x86\Debug\ResGen.read.1.tlog
+C:\014 SourceControl\LibraryMigration\LibraryMigration\obj\x86\Debug\ResGen.write.1.tlog
+C:\014 SourceControl\LibraryMigration\LibraryMigration\obj\x86\Debug\LibraryMigration.exe
+C:\014 SourceControl\LibraryMigration\LibraryMigration\obj\x86\Debug\LibraryMigration.pdb
+C:\LibraryMigration\LibraryMigration\obj\x86\Debug\LibraryMigration.exe
+C:\LibraryMigration\LibraryMigration\obj\x86\Debug\LibraryMigration.pdb
+C:\LibraryMigration\LibraryMigration\bin\Debug\LibraryMigration.exe
+C:\LibraryMigration\LibraryMigration\bin\Debug\LibraryMigration.pdb
+C:\LibraryMigration\LibraryMigration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\LibraryMigration\LibraryMigration\obj\x86\Debug\LibraryMigration.LibraryMigrationForm.resources
+C:\LibraryMigration\LibraryMigration\obj\x86\Debug\LibraryMigration.Properties.Resources.resources
+C:\LibraryMigration\LibraryMigration\obj\x86\Debug\ResGen.read.1.tlog
+C:\LibraryMigration\LibraryMigration\obj\x86\Debug\ResGen.write.1.tlog
