@@ -1,4 +1,4 @@
-# Sharepoint 2010 Library Migration Tool
+# SharePoint 2010 Library Migration Tool
 
 A tool for migrating SharePoint 2010 Document Libraries with metadata like "Modified" and "Modified By" kept intact. It will also migrate across sites. Remember to run it from the a machine with the SharePoint banaries installed.
 
