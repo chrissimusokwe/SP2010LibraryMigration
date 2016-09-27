@@ -126,8 +126,12 @@ Site Collection feature activation
 # Event Logging
 
 The SPFileCleanUp tool writes to the windows event logs the following activities:
+
 1.	The total count of versions per file that have been cleaned up.
+
 2.	The file name cleaned up
+
 3.	The time the file was cleaned up
+
 4.	Any errors it may come across during the clean-up process.
  
